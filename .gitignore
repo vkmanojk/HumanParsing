@@ -1,0 +1,6 @@
+datasets/lip/heatmap/*
+datasets/lip/images/*
+datasets/lip/val_images/*
+output/*
+results/*
+checkpoint/*
