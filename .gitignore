@@ -4,3 +4,4 @@ datasets/lip/val_images/*
 output/*
 results/*
 checkpoint/*
+logs/*
